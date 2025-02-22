@@ -2,7 +2,7 @@
 layout: default
 ---
 # Posts
-[Friday, February 21st, 2025] (1.html)
+[Friday, February 21st, 2025](./another-page.html).
 [back](./)
 
 
