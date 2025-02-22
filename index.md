@@ -2,7 +2,7 @@
 layout: default
 ---
 # Posts
-[Test Link](./another-page.html).
+[Test Link](./another-page.html)
 
 
 
