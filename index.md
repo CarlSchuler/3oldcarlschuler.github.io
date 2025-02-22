@@ -2,8 +2,7 @@
 layout: default
 ---
 # Posts
-
-[Friday,February 21, 2025](./1.md).
+[Friday,February 21, 2025](./1.html)
 
 
 ## Header 2
