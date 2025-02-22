@@ -3,7 +3,7 @@ layout: default
 ---
 # Posts
 
-[Friday,February 21, 2025](./2025-02-20-1stpost.md).
+[Friday,February 21, 2025](./1.md).
 
 
 ## Header 2
