@@ -2,7 +2,7 @@
 layout: default
 ---
 # Posts
-[Friday,February 21, 2025 ](./another-page.html)
+[Friday, February 21, 2025 ](./another-page.html)
 
 
 ## Header 2
