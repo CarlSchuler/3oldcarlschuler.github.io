@@ -2,8 +2,8 @@
 layout: default
 ---
 # Posts
-[Friday, February 21st, 2025](./another-page.html).
-[back](./)
+[Test Link](./another-page.html).
+
 
 
 
